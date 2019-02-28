@@ -22,7 +22,7 @@ Tools, SDKs and Technology:
 - **Java**: Eclipse, Tomcat, Maven, Spring, JSP, RDF<br/>
 - **Python**: Flask, Tornado, aiohttp, asyncpg, asyncio, Django<br/>
 - **Databases**: Postgresql, mysql, Redis, Kafka, Cassandra<br/>
-- **Blockchain**: Etheruem, parity, geth<br/>
+- **Blockchain**: Ethereum, parity, geth<br/>
 - **Cloud services**: Google compute engine, Google storage, Google load balancer, Heroku, letsencrypt<br/>
 - **Other**: Emacs, Linux (experienced with Debian/Ubuntu and Archlinux)
 
